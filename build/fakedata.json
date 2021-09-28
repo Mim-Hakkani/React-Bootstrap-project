@@ -1,0 +1,24 @@
+[
+
+    {
+        "name" : "Ecommerce",
+        "desc"  :" Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto fugit dignissimos est quas! Maiores, adipisci.",
+        "id"    :"1",
+        "ratting":"4.5",
+        "img"    :"https://images.unsplash.com/photo-1620325867502-221cfb5faa5f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1157&q=80"
+    },
+    {
+        "name" : "Project_planning",
+        "desc"  :" Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto fugit dignissimos est quas! Maiores, adipisci.",
+        "id"    :"2",
+        "ratting":"5",
+        "img"    :"https://images.unsplash.com/photo-1503387762-592deb58ef4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1631&q=80"
+    },
+    {
+        "name" : "Design",
+        "desc"  :" Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto fugit dignissimos est quas! Maiores, adipisci.",
+        "id"    :"3",
+        "ratting":"4.0",
+        "img"    :"https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+    }
+    ]

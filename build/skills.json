@@ -1,0 +1,40 @@
+[
+
+{"img":"https://media.istockphoto.com/photos/web-design-development-and-coding-concept-picture-id1219854221?s=612x612",
+ "id" :"1",
+ "desc":"The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript",
+ "name":"HTML"
+},
+
+{"img":"https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+    "id" :"2",
+    "desc":"The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript",
+    "name":"CSS"
+},
+
+{"img":"https://media.istockphoto.com/photos/program-code-on-computer-display-in-magnifying-glass-closeup-picture-id1291641896",
+    "id" :"3",
+    "desc":"The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript",
+    "name":"Java Script"
+},
+
+{"img":"https://miro.medium.com/max/3600/1*HSisLuifMO6KbLfPOKtLow.jpeg",
+    "id" :"4",
+    "desc":"The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript",
+    "name":"React"
+},
+
+{"img":"https://media.istockphoto.com/photos/application-programming-interface-concept-multi-color-arrows-pointing-picture-id1165135382?s=612x612",
+    "id" :"5",
+    "desc":"The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript",
+    "name":"API"
+},
+
+{"img":"https://thewebtier-bucket.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2020/01/12093906/nodejs-twt.png",
+    "id" :"7",
+    "desc":"The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript",
+    "name":"Node JS"
+}
+
+
+]
